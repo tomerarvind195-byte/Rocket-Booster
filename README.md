@@ -169,11 +169,11 @@ rocket-game/
 
 ## 🤝 Contributing
 
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/power-ups`)
-3. Commit your changes (`git commit -m 'Add shield power-up'`)
-4. Push to the branch (`git push origin feature/power-ups`)
-5. Open a Pull Request
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/power-ups`).
+3. Commit your changes (`git commit -m 'Add shield power-up'`).
+4. Push to the branch (`git push origin feature/power-ups`).
+5. Open a Pull Request.
 
 ---
 
